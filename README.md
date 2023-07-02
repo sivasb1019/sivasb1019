@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Siva Balan. V
-- 👀 I’m interested in Football
 - 🌱 I’m currently learning Java 
 
 <!---
