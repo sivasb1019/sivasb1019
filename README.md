@@ -1,7 +1,7 @@
 
 👋 Welcome to my GitHub!
 
-I'm Siva Balan V, a passionate coder and aspiring Software Developer. With a love for problem-solving and a curiosity that never rests, I'm on a continuous journey to explore and contribute to the world of technology.
+I'm Siva Balan V, a passionate coder and aspiring Programmer. With a love for problem-solving and a curiosity that never rests, I'm on a continuous journey to explore and contribute to the world of technology.
 
 📫 Connect with me on LinkedIn: https://www.linkedin.com/in/sivabalanv10
 
