@@ -12,7 +12,8 @@ I’m a passionate software developer with a strong focus on building scalable a
 - **Testing & Automation:** 
   - **Python Testing:** PyTest
   - **Java Testing:** TestNG, Selenium
-  - **Reporting:** Allure- **Build & Dependency Management:** Maven (Java)
+  - **Reporting:** Allure
+- **Build & Dependency Management:** Maven (Java)
 - **Operating Systems:** Linux, Windows
 
 ## 🌟 What Drives Me:
